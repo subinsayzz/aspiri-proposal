@@ -132,7 +132,7 @@ export const slides = [
             { title: "AI-Generated Editorial Content", desc: "Supplementing physical shoots with high-end Generative AI. We create aspirational, avant-garde imagery for the website and social grids that elevate the brand aesthetic without infinite production costs.", icon: Bot },
             { title: "The Golden Circle", desc: "Exclusive pre-launch access membership for 100 influential women. Scarcity-driven community building.", icon: Crown },
             { title: "The 'Aspiri Muse' Search", desc: "A city-wide hunt for the Face of Aspiri. Influencers create content to compete for a lucrative Annual Brand Contract. This 'fruitful' prize incentivizes hundreds of creators to post naturally, creating a massive Launch Day 'noise' event without individual negotiation.", icon: Trophy },
-            { title: "The 'Bridal Alliance'", desc: "Strategic display partnerships with the city's top 5 Premium Bridal & Makeup Studios. We place signature sets where high-intent brides plan their big day, capturing customers before they even visit a competitor.", icon: Gem }
+            { title: "The 'Story-to-Stone' Event", desc: "Couples submit their love story, and we use AI to generate a unique 'Bespoke Ring' concept based on their words. They share their design to win. High emotion, massive organic reach, zero media cost.", icon: HeartIcon }
         ],
         note: "Blending high-tech engagement (AI/Quiz) with the high-touch 'Sovereign' experience.",
         icon: Sparkles
@@ -190,32 +190,31 @@ export const slides = [
     {
         id: 11,
         type: 'list',
-        title: "SUCCESS OUTCOME",
-        subtitle: "BY DAY 90",
-        mainIdea: "By the end of this engagement, Aspiri will have:",
+        title: "THE ASPIRI LEGACY",
+        subtitle: "DAY 91 & BEYOND",
+        mainIdea: "This isn't just a 90-day sprint. It's the foundation of a generational brand.",
         points: [
-            "A clear 'Bespoke' marketing & brand direction",
-            "Defined storytelling pillars for the 'Imagine Your Own' narrative",
-            "Awareness-ready digital infrastructure (CRM, AI, Website)",
-            "Launch-aligned creative campaigns ready to execute",
-            "A strategic foundation for scaling the Atelier model"
+            "We will have moved Aspiri from 'Jewellery Retailer' to 'Bespoke Art House'.",
+            "The pricing power will shift from 'Gold Rate' to 'Brand Value'.",
+            "A digital moat will surround the business, immunizing it from local price wars.",
+            "The 'Atelier' model will be ready for franchise scaling across India."
         ],
-        highlight: "Ready for: Full Launch, Franchise Storytelling, & Expansion.",
-        icon: CheckCircle2
+        highlight: "We are building the Sovereign Choice.",
+        icon: Crown
     },
     {
         id: 12,
         type: 'final-cta',
-        title: "A PARTNERSHIP",
-        subtitle: "CLOSING THOUGHT",
-        tagline: "“Are we aligned enough to build something meaningful together?”",
+        title: "THE NEXT STEP",
+        subtitle: "INITIATION PROTOCOL",
+        tagline: "The strategy is set. The infrastructure is ready. The War Room awaits your command.",
         points: [
-            "If yes,",
-            "The next phase becomes powerful,",
-            "Structured, and scalable."
+            "1. Authorize the Engagement",
+            "2. Deploy the Gymrupt Engine",
+            "3. Begin the 'Deep Dive' Audit"
         ],
-        ctaText: "Initiate Engagement",
+        ctaText: "AUTHORIZE LAUNCH",
         ctaLink: "#",
-        icon: SignedIcon
+        icon: Rocket
     }
 ];
